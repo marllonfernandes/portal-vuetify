@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: portal-vuetify
+  annotations:
+    github.com/project-slug: marllonfernandes/portal-vuetify
+spec:
+  type: other
+  lifecycle: unknown
+  owner: ti-team-servicos
